@@ -1,0 +1,13 @@
+.product-details {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .product-details img {
+    margin: 20px 0;
+    max-width: 100%;
+  }
+
+  .product-details h1 {
+    margin-bottom: 20px;
+  }
